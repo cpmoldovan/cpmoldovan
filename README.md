@@ -1,6 +1,6 @@
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&width=500&lines=Hey%2C+I'm+Cristian+%F0%9F%91%8B;DevOps+Engineer+%7C+AWS+%7C+Kubernetes;Building+infra+that+doesn't+break+at+3am)
+### DevOps Engineer · AWS · Kubernetes
 
 ---
 
